@@ -1,41 +1,48 @@
 <h1 align="center">Hi 👋, I'm Shailesh Dwivedi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;FastAPI+Enthusiast;Python+Developer;Data+Analytics+Learner&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Python+Developer;FastAPI+Backend+Developer;Power+BI+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<h3 align="center">🚀 Turning Ideas into Scalable Backend Systems & Data Solutions</h3>
+<h3 align="center">📊 Data Analyst First | 🚀 Backend Developer | Python Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student  
-- 💡 Passionate about Backend Development & Data Analytics  
-- 🔥 Building real-world applications using FastAPI & Python  
-- 📊 Exploring Power BI, SQL & Data Visualization  
-- 🎯 Goal: Become a Backend Developer & Data Engineer  
+- 📊 Passionate about Data Analysis & Visualization  
+- 🐍 Skilled in Python & Data Libraries  
+- ⚡ Building APIs using FastAPI  
+- 🎯 Goal: Become a Data Analyst & Backend Developer  
 
 ---
 
-## 🚀 Tech Stack
-
-### 💻 Programming & Backend
+## 📊 Data Analytics Skills (Primary)
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite" />
-</p>
-
-### 📊 Data & Analytics
-<p>
-  <img src="https://skillicons.dev/icons?i=excel" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database"/>
 </p>
 
-### 📚 Python Libraries
-- NumPy | Pandas | Matplotlib | Scikit-learn  
+📌 Libraries: NumPy | Pandas | Matplotlib | Scikit-learn  
 
-### 🛠️ Tools
+---
+
+## 🚀 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,sqlite" />
+</p>
+
+- ⚡ FastAPI  
+- 🔗 REST APIs  
+- 🗄️ Database Handling  
+
+---
+
+## 💻 Coding Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -63,15 +70,23 @@
 
 ## 📌 Featured Projects
 - 🔹 FastAPI Inventory Management System  
+- 🔹 Loan Prediction Model  
 - 🔹 ML Practice Questions  
-- 🔹 Loan Prediction Model (Machine Learning)  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/SHAILESH197">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/shailesh-dwivedi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="mailto:shaileshdwivedi1812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -79,5 +94,5 @@
 
 ## 💡 Quote
 <p align="center">
-  <b>"Code. Analyze. Build. Improve. Repeat."</b>
+  <b>"Analyze Data. Build Systems. Solve Problems."</b>
 </p>
