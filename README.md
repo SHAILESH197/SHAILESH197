@@ -1,8 +1,8 @@
-<h1 align="center">Shailesh Dwivedi</h1>
+<h1 align="center">Hi 👋, I'm Shailesh Dwivedi</h1>
 <h3 align="center">🚀 Data Analyst | Python Developer | FastAPI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 
 ---
