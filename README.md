@@ -6,7 +6,7 @@
 
 <h3 align="center">📊 Data Analyst First | 🚀 Backend Developer | Python Enthusiast</h3>
 
----
+
 
 ## 👨‍💻 About Me
 - 🎓 Computer Science Student  
@@ -15,7 +15,7 @@
 - ⚡ Building APIs using FastAPI  
 - 🎯 Goal: Become a Data Analyst & Backend Developer  
 
----
+
 
 ## 📊 Data Analytics Skills (Primary)
 <p>
@@ -27,7 +27,7 @@
 
 📌 Libraries: NumPy | Pandas | Matplotlib | Scikit-learn  
 
----
+
 
 ## 🚀 Backend Development
 <p>
@@ -38,42 +38,42 @@
 - 🔗 REST APIs  
 - 🗄️ Database Handling  
 
----
+
 
 ## 💻 Coding Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAILESH197&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SHAILESH197&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 📈 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAILESH197&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 📌 Featured Projects
 - 🔹 FastAPI Inventory Management System  
 - 🔹 Loan Prediction Model  
 - 🔹 ML Practice Questions  
 
----
+
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -90,7 +90,7 @@
   </a>
 </p>
 
----
+
 
 ## 💡 Quote
 <p align="center">
